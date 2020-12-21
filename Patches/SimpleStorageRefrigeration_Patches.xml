@@ -35,8 +35,8 @@
                     <value>
                         <li Class="LWM.DeepStorage.Properties">
                             <minNumberStacks>2</minNumberStacks>
-                            <maxNumberStacks>4</maxNumberStacks>
-                            <maxMassOfStoredItem>100</maxMassOfStoredItem>
+                            <maxNumberStacks>8</maxNumberStacks>
+                            <maxMassOfStoredItem>1000</maxMassOfStoredItem>
                             <minTimeStoringTakes>25</minTimeStoringTakes>
                             <additionalTimeEachStack>10</additionalTimeEachStack>
                             <additionalTimeEachDef>10</additionalTimeEachDef>
@@ -74,8 +74,8 @@
                     <value>
                         <li Class="LWM.DeepStorage.Properties">
                             <minNumberStacks>2</minNumberStacks>
-                            <maxNumberStacks>4</maxNumberStacks>
-                            <maxMassOfStoredItem>100</maxMassOfStoredItem>
+                            <maxNumberStacks>12</maxNumberStacks>
+                            <maxMassOfStoredItem>1000</maxMassOfStoredItem>
                             <minTimeStoringTakes>25</minTimeStoringTakes>
                             <additionalTimeEachStack>10</additionalTimeEachStack>
                             <additionalTimeEachDef>10</additionalTimeEachDef>
@@ -128,7 +128,7 @@
                     <value>
                         <li Class="LWM.DeepStorage.Properties">
                             <minNumberStacks>2</minNumberStacks>
-                            <maxNumberStacks>5</maxNumberStacks>
+                            <maxNumberStacks>12</maxNumberStacks>
                             <minTimeStoringTakes>150</minTimeStoringTakes>
                             <additionalTimeEachStack>10</additionalTimeEachStack>
                             <additionalTimeEachDef>10</additionalTimeEachDef>

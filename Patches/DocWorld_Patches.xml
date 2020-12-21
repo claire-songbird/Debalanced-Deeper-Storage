@@ -116,7 +116,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WoodenLogs" or defName="DZ_VFEPD_WoodenLogsLarge"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>3</maxNumberStacks>
+                                <maxNumberStacks>5</maxNumberStacks>
                                 <minTimeStoringTakes>100</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <showContents>false</showContents>
@@ -144,8 +144,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WoodenChest"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>30</maxTotalMass>
+                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxTotalMass>60</maxTotalMass>
                                 <minTimeStoringTakes>100</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -179,8 +179,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WoodenChestLarge"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>40</maxTotalMass>
+                                <maxNumberStacks>5</maxNumberStacks>
+                                <maxTotalMass>80</maxTotalMass>
                                 <minTimeStoringTakes>100</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -216,8 +216,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_BoxLarge"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>20</maxTotalMass>
+                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxTotalMass>150</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>600</additionalTimeEachDef>
@@ -246,7 +246,7 @@
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
                                 <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>10</maxTotalMass>
+                                <maxTotalMass>50</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>600</additionalTimeEachDef>
@@ -283,8 +283,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_PalletBoxes"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>3</maxNumberStacks>
-                                <maxTotalMass>40</maxTotalMass>
+                                <maxNumberStacks>8</maxNumberStacks>
+                                <maxTotalMass>220</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -328,8 +328,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WeaponRackEmpty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
-                                <maxTotalMass>15</maxTotalMass>
+                                <maxNumberStacks>20</maxNumberStacks>
+                                <maxTotalMass>50</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>true</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -340,8 +340,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WeaponRackSwords"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
-                                <maxTotalMass>15</maxTotalMass>
+                                <maxNumberStacks>20</maxNumberStacks>
+                                <maxTotalMass>50</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>false</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -395,8 +395,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_ArmorStandEmpty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>5</maxNumberStacks>
-                                <maxTotalMass>30</maxTotalMass>
+                                <maxNumberStacks>15</maxNumberStacks>
+                                <maxTotalMass>100</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>true</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -407,8 +407,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_ArmorStandFull"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>5</maxNumberStacks>
-                                <maxTotalMass>30</maxTotalMass>
+                                <maxNumberStacks>15</maxNumberStacks>
+                                <maxTotalMass>100</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>false</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -442,8 +442,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_CardboardBoxLarge"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>10</maxTotalMass>
+                                <maxNumberStacks>3</maxNumberStacks>
+                                <maxTotalMass>35</maxTotalMass>
                                 <minTimeStoringTakes>400</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>600</additionalTimeEachDef>
@@ -472,7 +472,7 @@
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
                                 <maxNumberStacks>2</maxNumberStacks>
-                                <maxTotalMass>5</maxTotalMass>
+                                <maxTotalMass>20</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>600</additionalTimeEachDef>
@@ -509,8 +509,8 @@
                         <xpath>/Defs/ThingDef[defName="VFEPD_PalletCardboard"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>3</maxNumberStacks>
-                                <maxTotalMass>20</maxTotalMass>
+                                <maxNumberStacks>6</maxNumberStacks>
+                                <maxTotalMass>120</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -573,8 +573,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_TallCabinet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>5</maxNumberStacks>
-                                <maxTotalMass>30</maxTotalMass>
+                                <maxNumberStacks>8</maxNumberStacks>
+                                <maxTotalMass>300</maxTotalMass>
                                 <minTimeStoringTakes>50</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -630,9 +630,9 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_Lockers"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>10</maxNumberStacks>
-                                <minNumberStacks>5</minNumberStacks>
-                                <maxTotalMass>5</maxTotalMass>
+                                <maxNumberStacks>16</maxNumberStacks>
+                                <minNumberStacks>2</minNumberStacks>
+                                <maxTotalMass>100</maxTotalMass>
                                 <minTimeStoringTakes>50</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <showContents>false</showContents>
@@ -691,10 +691,10 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_VendingMachine"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>10</maxNumberStacks>
-                                <minNumberStacks>5</minNumberStacks>
-                                <maxTotalMass>10</maxTotalMass>
-                                <maxMassOfStoredItem>0.5</maxMassOfStoredItem>
+                                <maxNumberStacks>20</maxNumberStacks>
+                                <minNumberStacks>2</minNumberStacks>
+                                <maxTotalMass>80</maxTotalMass>
+                                <maxMassOfStoredItem>1</maxMassOfStoredItem>
                                 <minTimeStoringTakes>50</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <showContents>false</showContents>
@@ -759,7 +759,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_BarrelGreen"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxNumberStacks>5</maxNumberStacks>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <additionalTimeEachDef>10000</additionalTimeEachDef>
@@ -827,7 +827,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_PalletBarrelGreen"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>9</maxNumberStacks>
+                                <maxNumberStacks>12</maxNumberStacks>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -898,7 +898,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WineRack"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>3</maxNumberStacks>
+                                <maxNumberStacks>6</maxNumberStacks>
                                 <minTimeStoringTakes>100</minTimeStoringTakes>
                                 <additionalTimeEachStack>20</additionalTimeEachStack>
                                 <showContents>false</showContents>
@@ -961,7 +961,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxNumberStacks>8</maxNumberStacks>
                                 <minTimeStoringTakes>300</minTimeStoringTakes>
                                 <additionalTimeEachStack>110</additionalTimeEachStack>
                                 <additionalTimeEachDef>300</additionalTimeEachDef>
@@ -1024,7 +1024,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WarehouseShelfEmpty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>5</maxNumberStacks>
+                                <maxNumberStacks>10</maxNumberStacks>
                                 <minTimeStoringTakes>700</minTimeStoringTakes>
                                 <additionalTimeEachStack>50</additionalTimeEachStack>
                                 <showContents>true</showContents>
@@ -1087,8 +1087,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WarehouseShelfBoxes"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>6</maxNumberStacks>
-                                <maxTotalMass>50</maxTotalMass>
+                                <maxNumberStacks>16</maxNumberStacks>
+                                <maxTotalMass>250</maxTotalMass>
                                 <minTimeStoringTakes>700</minTimeStoringTakes>
                                 <additionalTimeEachStack>50</additionalTimeEachStack>
                                 <showContents>false</showContents>
@@ -1461,7 +1461,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_SpacerContainer"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxNumberStacks>8</maxNumberStacks>
                                 <minTimeStoringTakes>400</minTimeStoringTakes>
                                 <additionalTimeEachStack>200</additionalTimeEachStack>
                                 <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -1474,7 +1474,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_SpacerContainerLarge"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>4</maxNumberStacks>
+                                <maxNumberStacks>8</maxNumberStacks>
                                 <minTimeStoringTakes>200</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -1487,7 +1487,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_SpacerContainerStack"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>8</maxNumberStacks>
+                                <maxNumberStacks>16</maxNumberStacks>
                                 <minTimeStoringTakes>600</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -1500,7 +1500,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_SpacerStorage"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>6</maxNumberStacks>
+                                <maxNumberStacks>12</maxNumberStacks>
                                 <minTimeStoringTakes>100</minTimeStoringTakes>
                                 <additionalTimeEachStack>100</additionalTimeEachStack>
                                 <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -1615,8 +1615,8 @@
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
                                 <minNumberStacks>2</minNumberStacks>
-                                <maxNumberStacks>4</maxNumberStacks>
-                                <maxMassOfStoredItem>100</maxMassOfStoredItem>
+                                <maxNumberStacks>10</maxNumberStacks>
+                                <maxMassOfStoredItem>1000</maxMassOfStoredItem>
                                 <minTimeStoringTakes>25</minTimeStoringTakes>
                                 <additionalTimeEachStack>10</additionalTimeEachStack>
                                 <additionalTimeEachDef>10</additionalTimeEachDef>

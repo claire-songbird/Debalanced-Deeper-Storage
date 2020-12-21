@@ -450,8 +450,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Metal_Crate" or defName="JDS_Metal_Crate_Small_Pile"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>30</maxTotalMass>
+                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxTotalMass>300</maxTotalMass>
                      <minTimeStoringTakes>800</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -464,8 +464,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Metal_Crate_Pile" or defName="JDS_Metal_Crate_Bigger_Pile"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>45</maxTotalMass>
+                     <maxNumberStacks>6</maxNumberStacks>
+                     <maxTotalMass>450</maxTotalMass>
                      <minTimeStoringTakes>900</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -606,8 +606,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>20</maxTotalMass>
+                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxTotalMass>200</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -620,8 +620,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_Two" or defName="JDS_Wooden_Crate_Three"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>25</maxTotalMass>
+                     <maxNumberStacks>5</maxNumberStacks>
+                     <maxTotalMass>250</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -634,8 +634,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_four"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>40</maxTotalMass>
+                     <maxNumberStacks>6</maxNumberStacks>
+                     <maxTotalMass>400</maxTotalMass>
                      <minTimeStoringTakes>600</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -648,8 +648,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_B"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>40</maxTotalMass>
+                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxTotalMass>400</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -662,8 +662,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_C"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>40</maxTotalMass>
+                     <maxNumberStacks>6</maxNumberStacks>
+                     <maxTotalMass>400</maxTotalMass>
                      <minTimeStoringTakes>1100</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -676,8 +676,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_Large"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>5</maxNumberStacks>
-                     <maxTotalMass>60</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>600</maxTotalMass>
                      <minTimeStoringTakes>1500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>500</additionalTimeEachDef>
@@ -745,10 +745,10 @@
                <xpath>/Defs/ThingDef[defName="JDSVending_Machine" or defName="JDSVending_Machine_two"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                      <li Class="LWM.DeepStorage.Properties">
-                        <maxNumberStacks>10</maxNumberStacks>
-                        <minNumberStacks>5</minNumberStacks>
-                        <maxTotalMass>10</maxTotalMass>
-                        <maxMassOfStoredItem>0.5</maxMassOfStoredItem>
+                        <maxNumberStacks>12</maxNumberStacks>
+                        <minNumberStacks>2</minNumberStacks>
+                        <maxTotalMass>100</maxTotalMass>
+                        <maxMassOfStoredItem>1</maxMassOfStoredItem>
                         <minTimeStoringTakes>50</minTimeStoringTakes>
                         <additionalTimeEachStack>20</additionalTimeEachStack>
                         <showContents>false</showContents>
@@ -816,7 +816,7 @@
                <xpath>/Defs/ThingDef[defName="JDS_Med_Storage"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                      <li Class="LWM.DeepStorage.Properties">
-                        <maxNumberStacks>10</maxNumberStacks>
+                        <maxNumberStacks>12</maxNumberStacks>
                         <minTimeStoringTakes>50</minTimeStoringTakes>
                         <additionalTimeEachStack>20</additionalTimeEachStack>
                         <showContents>false</showContents>
@@ -873,7 +873,7 @@
                <xpath>/Defs/ThingDef[defName="JDSSafe"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                      <li Class="LWM.DeepStorage.Properties">
-                        <maxNumberStacks>5</maxNumberStacks>
+                        <maxNumberStacks>8</maxNumberStacks>
                         <minTimeStoringTakes>500</minTimeStoringTakes>
                         <additionalTimeEachStack>20</additionalTimeEachStack>
                         <showContents>false</showContents>
@@ -934,10 +934,10 @@
                <xpath>/Defs/ThingDef[defName="JDSMetal_Shelf_A" or defName="JDSMetal_Shelf_B"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                      <li Class="LWM.DeepStorage.Properties">
-                        <maxNumberStacks>4</maxNumberStacks>
+                        <maxNumberStacks>8</maxNumberStacks>
                         <minNumberStacks>1</minNumberStacks>
-                        <maxTotalMass>7</maxTotalMass>
-                        <maxMassOfStoredItem>0.5</maxMassOfStoredItem>
+                        <maxTotalMass>150</maxTotalMass>
+                        <maxMassOfStoredItem>1</maxMassOfStoredItem>
                         <minTimeStoringTakes>50</minTimeStoringTakes>
                         <additionalTimeEachStack>20</additionalTimeEachStack>
                         <showContents>true</showContents>
@@ -1000,10 +1000,10 @@
                <xpath>/Defs/ThingDef[defName="JDSMetal_Shelf_A_Full" or defName="JDSMetal_Shelf_B_Full"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                      <li Class="LWM.DeepStorage.Properties">
-                        <maxNumberStacks>10</maxNumberStacks>
-                        <minNumberStacks>5</minNumberStacks>
-                        <maxTotalMass>15</maxTotalMass>
-                        <maxMassOfStoredItem>0.5</maxMassOfStoredItem>
+                        <maxNumberStacks>12</maxNumberStacks>
+                        <minNumberStacks>1</minNumberStacks>
+                        <maxTotalMass>450</maxTotalMass>
+                        <maxMassOfStoredItem>5</maxMassOfStoredItem>
                         <minTimeStoringTakes>100</minTimeStoringTakes>
                         <additionalTimeEachStack>40</additionalTimeEachStack>
                         <showContents>false</showContents>
@@ -1228,7 +1228,7 @@
                <xpath>/Defs/ThingDef[defName="JDS_Large_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxNumberStacks>8</maxNumberStacks>
                      <minTimeStoringTakes>300</minTimeStoringTakes>
                      <additionalTimeEachStack>110</additionalTimeEachStack>
                      <additionalTimeEachDef>300</additionalTimeEachDef>
@@ -1378,8 +1378,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Large_A_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>22.5</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>1200</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -1442,8 +1442,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Large_B_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>22.5</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>1200</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -1505,8 +1505,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Large_C_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>22.5</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>1200</maxTotalMass>
                      <minTimeStoringTakes>400</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -1568,8 +1568,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Large_D_Pallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>30</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>1500</maxTotalMass>
                      <minTimeStoringTakes>400</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -1648,7 +1648,7 @@
                <xpath>/Defs/ThingDef[defName="JDSPallet"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxNumberStacks>8</maxNumberStacks>
                      <minTimeStoringTakes>300</minTimeStoringTakes>
                      <additionalTimeEachStack>110</additionalTimeEachStack>
                      <additionalTimeEachDef>20</additionalTimeEachDef>
@@ -1742,7 +1742,7 @@
                <xpath>/Defs/ThingDef[defName="JDSPallet_Can"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxNumberStacks>8</maxNumberStacks>
                      <minTimeStoringTakes>300</minTimeStoringTakes>
                      <additionalTimeEachStack>110</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -1810,8 +1810,8 @@
                <xpath>/Defs/ThingDef[defName="JDSPallet_Crate"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>2</maxNumberStacks>
-                     <maxTotalMass>20</maxTotalMass>
+                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxTotalMass>200</maxTotalMass>
                      <minTimeStoringTakes>200</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -1902,9 +1902,9 @@
                <xpath>/Defs/ThingDef[defName="JDSIndustrial_shelf_empty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>7</maxNumberStacks>
+                     <maxNumberStacks>8</maxNumberStacks>
                      <maxMassOfStoredItem>150</maxMassOfStoredItem>
-                     <maxTotalMass>450</maxTotalMass>
+                     <maxTotalMass>700</maxTotalMass>
                      <minTimeStoringTakes>1000</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <showContents>true</showContents>
@@ -1990,9 +1990,9 @@
                <xpath>/Defs/ThingDef[defName="JDSIndustrial_shelf"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>8</maxNumberStacks>
-                     <maxMassOfStoredItem>150</maxMassOfStoredItem>
-                     <maxTotalMass>450</maxTotalMass>
+                     <maxNumberStacks>12</maxNumberStacks>
+                     <maxMassOfStoredItem>250</maxMassOfStoredItem>
+                     <maxTotalMass>2500</maxTotalMass>
                      <minTimeStoringTakes>1000</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <showContents>false</showContents>
@@ -2158,7 +2158,7 @@
                <xpath>/Defs/ThingDef[defName="JDS_Industrial_Dumpster_Chunk" or defName="JDS_Industrial_Dumpster_Slag"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxNumberStacks>32</maxNumberStacks>
                      <minTimeStoringTakes>100</minTimeStoringTakes>
                      <additionalTimeEachStack>20</additionalTimeEachStack>
                      <showContents>false</showContents>
@@ -2170,7 +2170,7 @@
                <xpath>/Defs/ThingDef[defName="JDSIndustrial_Dumpster"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxNumberStacks>16</maxNumberStacks>
                      <minTimeStoringTakes>100</minTimeStoringTakes>
                      <additionalTimeEachDef>600</additionalTimeEachDef>
                      <additionalTimeEachStack>20</additionalTimeEachStack>
@@ -2364,7 +2364,7 @@
                   or defName="JDSShippingContainerGreen"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>5</maxNumberStacks>
+                     <maxNumberStacks>10</maxNumberStacks>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>20</additionalTimeEachStack>
                      <showContents>false</showContents>
@@ -2439,8 +2439,8 @@
                <value>
                   <li Class="LWM.DeepStorage.Properties">
                      <maxNumberStacks>10</maxNumberStacks>
-                     <minNumberStacks>5</minNumberStacks>
-                     <maxTotalMass>5</maxTotalMass>
+                     <minNumberStacks>1</minNumberStacks>
+                     <maxTotalMass>20</maxTotalMass>
                      <minTimeStoringTakes>50</minTimeStoringTakes>
                      <additionalTimeEachStack>20</additionalTimeEachStack>
                      <showContents>false</showContents>
@@ -2543,8 +2543,8 @@
                <xpath>/Defs/ThingDef[defName="JDSMilitaryGradeCrateSmall"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>30</maxTotalMass>
+                     <maxNumberStacks>5</maxNumberStacks>
+                     <maxTotalMass>100</maxTotalMass>
                      <minTimeStoringTakes>300</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -2557,8 +2557,8 @@
                <xpath>/Defs/ThingDef[defName="JDSMilitary_Grade_Crate_Small_Pile"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>6</maxNumberStacks>
-                     <maxTotalMass>50</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>250</maxTotalMass>
                      <minTimeStoringTakes>400</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <additionalTimeEachDef>100</additionalTimeEachDef>
@@ -2571,8 +2571,8 @@
                <xpath>/Defs/ThingDef[defName="JDSMilitary_Grade_Crate_Long"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>35</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>350</maxTotalMass>
                      <minTimeStoringTakes>600</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <additionalTimeEachDef>50</additionalTimeEachDef>
@@ -2585,8 +2585,8 @@
                <xpath>/Defs/ThingDef[defName="JDSMilitary_Grade_crate_Large"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>4</maxNumberStacks>
-                     <maxTotalMass>60</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>500</maxTotalMass>
                      <minTimeStoringTakes>500</minTimeStoringTakes>
                      <additionalTimeEachStack>100</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -2599,8 +2599,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_C"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>3</maxNumberStacks>
-                     <maxTotalMass>40</maxTotalMass>
+                     <maxNumberStacks>4</maxNumberStacks>
+                     <maxTotalMass>80</maxTotalMass>
                      <minTimeStoringTakes>1100</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>200</additionalTimeEachDef>
@@ -2613,8 +2613,8 @@
                <xpath>/Defs/ThingDef[defName="JDS_Wooden_Crate_Large"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>5</maxNumberStacks>
-                     <maxTotalMass>60</maxTotalMass>
+                     <maxNumberStacks>8</maxNumberStacks>
+                     <maxTotalMass>120</maxTotalMass>
                      <minTimeStoringTakes>1500</minTimeStoringTakes>
                      <additionalTimeEachStack>200</additionalTimeEachStack>
                      <additionalTimeEachDef>500</additionalTimeEachDef>
@@ -2680,7 +2680,7 @@
                <xpath>/Defs/ThingDef[defName="JDSBank_Vault"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                <value>
                   <li Class="LWM.DeepStorage.Properties">
-                     <maxNumberStacks>10</maxNumberStacks>
+                     <maxNumberStacks>16</maxNumberStacks>
                      <minTimeStoringTakes>2000</minTimeStoringTakes>
                      <additionalTimeEachStack>20</additionalTimeEachStack>
                      <showContents>false</showContents>

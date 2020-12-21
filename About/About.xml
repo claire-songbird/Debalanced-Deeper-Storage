@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rebalanced Deep Storage</name>
-	<author>Oken</author>
+	<name>Debalanced Deeper Storage</name>
+	<author>Oken, crsongbird</author>
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
-	<packageId>Oken.RebalancedDeepStorage</packageId>
+	<packageId>crsongbird.dbds</packageId>
 	<description>Check the Steam workshop page for more info.</description>
 	<modDependencies>
 		<li>
