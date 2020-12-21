@@ -115,11 +115,11 @@ Some buildings in some mod were too problematic to balance around. This problem 
 
 ### Where can I see ALL the changes?
 
-This list will probably be outdated at some point, but you can find it in my GitHub; [here](https://github.com/Keno-GH/Rebalanced-Deep-Storage/wiki/All-the-changes)
+This list will probably be outdated at some point, but you can find it in Keno-GH's GitHub; [here](https://github.com/Keno-GH/Rebalanced-Deep-Storage/wiki/All-the-changes)
 
 ### I found an issue! What can I do?
 
-If you found an issue, please post it [here](https://github.com/Keno-GH/Rebalanced-Deep-Storage). It would be highly appreciated that you added a complete description of the problem, this way I can work on fixing it quicker. If you fancy, you can follow [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=725234314) to get even more info on my way.
+If you found an issue, please go away. I made this mod for personal use and such. :)
 
 ### Why can't I store X in this building?
 
@@ -127,6 +127,5 @@ Probably because balancing or visual logic issues, but there is a (very high) ch
 
 ## Donations
 
-It would be very highly appreciated!
-
+**Please, not to me**, send them to Keno-GH instead as "It would be very highly appreciated" by them.
 <a href='https://ko-fi.com/B0B61GNYP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.imgur.com/3wF8CqO.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
