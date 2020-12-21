@@ -1,7 +1,11 @@
-# Rebalanced-Deep-Storage
+# Debalanced-Deeper-Storage
 
 ## What is this?
-This is a mod that balances the different available storage mods that use LWM's Deep Storage's storage system.
+This is a mod that balances, but in an unbalanved way, all of the different available storage mods that use LWM's Deep Storage's storage system.
+This was forked from Keno-GH's Rebalanced Deep Storage and you should probably want to use that instead.
+
+## Why did you fork this mod?
+So I could adjust the balance in a way I wanted and diff changes when Keno-GH updates his mod. :)
 
 ## What mods are supported?
 
