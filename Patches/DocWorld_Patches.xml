@@ -328,8 +328,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WeaponRackEmpty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>20</maxNumberStacks>
-                                <maxTotalMass>50</maxTotalMass>
+                                <maxNumberStacks>50</maxNumberStacks>
+                                <maxTotalMass>250</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>true</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -340,8 +340,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_WeaponRackSwords"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>20</maxNumberStacks>
-                                <maxTotalMass>50</maxTotalMass>
+                                <maxNumberStacks>50</maxNumberStacks>
+                                <maxTotalMass>250</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>false</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -395,8 +395,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_ArmorStandEmpty"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>15</maxNumberStacks>
-                                <maxTotalMass>100</maxTotalMass>
+                                <maxNumberStacks>25</maxNumberStacks>
+                                <maxTotalMass>500</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>true</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -407,8 +407,8 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_ArmorStandFull"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>15</maxNumberStacks>
-                                <maxTotalMass>100</maxTotalMass>
+                                <maxNumberStacks>35</maxNumberStacks>
+                                <maxTotalMass>800</maxTotalMass>
                                 <minTimeStoringTakes>500</minTimeStoringTakes>
                                 <showContents>false</showContents>
                                 <overlayType>SumOfItemsPerCell</overlayType>
@@ -630,7 +630,7 @@
                         <xpath>/Defs/ThingDef[defName="DZ_VFEPD_Lockers"]/comps/li[@Class="LWM.DeepStorage.Properties"]</xpath>
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
-                                <maxNumberStacks>16</maxNumberStacks>
+                                <maxNumberStacks>48</maxNumberStacks>
                                 <minNumberStacks>2</minNumberStacks>
                                 <maxTotalMass>100</maxTotalMass>
                                 <minTimeStoringTakes>50</minTimeStoringTakes>
