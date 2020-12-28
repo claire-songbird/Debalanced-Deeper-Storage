@@ -1615,7 +1615,7 @@
                         <value>
                             <li Class="LWM.DeepStorage.Properties">
                                 <minNumberStacks>2</minNumberStacks>
-                                <maxNumberStacks>10</maxNumberStacks>
+                                <maxNumberStacks>16</maxNumberStacks>
                                 <maxMassOfStoredItem>1000</maxMassOfStoredItem>
                                 <minTimeStoringTakes>25</minTimeStoringTakes>
                                 <additionalTimeEachStack>10</additionalTimeEachStack>
